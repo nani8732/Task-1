@@ -1,5 +1,4 @@
 # Task-1
-#Calculator.py
 #Calculator
 def add(a,b):
     return a+b
